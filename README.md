@@ -70,6 +70,6 @@ print(predictions)
 
 ## Output:
 ![linear regression using gradient descent](sam.png)
-![image]()
+![image](https://github.com/VGSAIRAIMA/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/Screenshot%202026-05-21%20192226.png)
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
