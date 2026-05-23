@@ -82,9 +82,9 @@ print(f"Final bias (b): {b}")
 
 ```
 
-```
+
 
 ## Output:
-![Image](https://github.com/VGSAIRAIMA/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/Screenshot%202026-05-23%20081331.png)
+![Image](https://raw.githubusercontent.com/VGSAIRAIMA/Implementation-of-Linear-Regression-Using-Gradient-Descent/main/Screenshot%202026-05-23%20081331.png)
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
